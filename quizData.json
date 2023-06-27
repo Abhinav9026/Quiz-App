@@ -1,0 +1,39 @@
+[
+    {
+      "question": "Which of the following statements for a simple graph is correct??",
+      "options": [
+        "Every path is a trail",
+        "Every trail is a path",
+        "Every trail is a path as well as every path is a trail",
+        "Path and trail have no relation"
+      ],
+      "answer": "Every path is a trail"
+    },
+    {
+      "question": " What is the number of edges present in a complete graph having n vertices?",
+      "options": ["(n*(n+1))/2", "(n*(n-1))/2", "n", "Information given is insufficient"],
+      "answer": "(n*(n-1))/2"
+    },
+    {
+      "question": " In a simple graph, the number of edges is equal to twice the sum of the degrees of the vertices",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "A connected planar graph having 6 vertices, 7 edges contains _____________ regions.",
+      "options": ["15","3","1","7"],
+      "answer": "3"
+    },
+    {
+      "question": "Which of the following properties does a simple graph not hold?",
+      "options": ["Must be connected", "Must be unweighted", "Must have no loops or multiple edges", "Must have no multiple edges"],
+      "answer": "Must be connected"
+    },
+    {
+      "question": "What is the maximum number of edges in a bipartite graph having 10 vertices?",
+      "options": [
+        "24","21","25","16"
+      ],
+      "answer": "25"
+    }
+  ]
